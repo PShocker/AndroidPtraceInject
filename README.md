@@ -1,3 +1,11 @@
+这个项目fork [Android Ptrace Inject](https://github.com/SsageParuders/AndroidPtraceInject)
+只是改成了ndk编译的版本.
+命令行直接输入
+```
+ndk-build
+```
+就行
+
 # Android Ptrace Inject
 
 > 中文可以参考我的注释内容进行理解 <br>
