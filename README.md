@@ -4,7 +4,9 @@
 ```
 ndk-build
 ```
-就行
+就行.
+
+2022/6/16更新
 
 # Android Ptrace Inject
 
